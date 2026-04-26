@@ -52,7 +52,7 @@ Hi, I'm Davi
 
 🌐 Connect with me
 
-- 💼 LinkedIn: [your-link]
+- 💼 LinkedIn: https://www.linkedin.com/in/davi-reis-a2870234a/
 - 📧 Email: davicarqueija@gmail.com
 
 <!--
