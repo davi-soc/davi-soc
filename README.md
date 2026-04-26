@@ -19,12 +19,12 @@ Hi, I'm Davi
 🧠 Skills
 
 - SIEM Monitoring & Log Analysis
-- Incident Response
-- Threat Hunting
+- Incident Investigation & Triage
 - Network Traffic Analysis
-- Malware Analysis (Basic)
-- OSINT
+- Log Analysis
+- Threat Intelligence Enrichment 
 - Security Hardening
+- Python for security Automation
 
 ---
 
