@@ -30,23 +30,25 @@ Hi, I'm Davi
 
 🛠️ Tools & Technologies
 
-"Wazuh" (https://img.shields.io/badge/Wazuh-00BFB3?style=for-the-badge&logo=wazuh&logoColor=white)
-"Splunk" (https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-"Elastic" (https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
-"Wireshark" (https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-"Suricata" (https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white)
-"Zeek" (https://img.shields.io/badge/Zeek-4B275F?style=for-the-badge)
-"Sysmon" (https://img.shields.io/badge/Sysmon-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+## 🛠️ Tools & Technologies
+
+![Wazuh](https://img.shields.io/badge/Wazuh-00BFB3?style=for-the-badge\&logo=wazuh\&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge\&logo=splunk\&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge\&logo=elastic\&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge\&logo=suricata\&logoColor=white)
+![Zeek](https://img.shields.io/badge/Zeek-4B275F?style=for-the-badge)
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
 
 ---
 
-💻 Tech Stack
+## 💻 Tech Stack
 
-"Linux" (https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-"Windows" (https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"Bash" (https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-"PowerShell" (https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
 
 ---
 
