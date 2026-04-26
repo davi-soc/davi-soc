@@ -48,7 +48,8 @@ Hi, I'm Davi
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
-![Python (Automation)] (https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)_
+![Python (Automation)](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
 
 ---
 
