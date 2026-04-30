@@ -55,7 +55,7 @@ Hi, I'm Davi
 🌐 Connect with me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/davi-reis-a2870234a/
-- 📧 Email: davicarqueija@gmail.com
+- 📧 Email: davi.socyberl1@gmail.com
 
 <!--
 **davi-soc/davi-soc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
