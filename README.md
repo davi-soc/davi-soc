@@ -17,10 +17,6 @@ I'm a **SOC Analyst** focused on **Blue Team operations**, with hands-on experie
 - 🤖 Building small automation tools with Python to streamline SOC workflows
 ---
 
-## ⚙️ Tools & Technologies
-
-**SIEM & Monitoring** · **Network Analysis** · **Threat Intel** · **Automation**
-
 
 🛠️ Tools & Technologies
 
