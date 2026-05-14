@@ -1,32 +1,33 @@
-Hi, I'm Davi
+### Hi, I'm Davi 👋
 
-🛡️ SOC Analyst | Blue Team | Cybersecurity Enthusiast
+![SOC Analyst](https://img.shields.io/badge/SOC_Analyst-Blue_Team-0A66C2?style=flat-square&logo=shield&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-Splunk%20%7C%20Elastic-orange?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python&logoColor=white)
 
+> *"Detect, analyze, and respond — before it becomes a breach."*
+
+
+## 🧠 About Me
+
+I'm a **SOC Analyst** focused on **Blue Team operations**, with hands-on experience in log analysis, event correlation, and incident triage. I'm passionate about building detection logic that cuts through noise and surfaces what actually matters.
+
+- 🔍 Currently deepening skills in **threat hunting** and **MITRE ATT&CK-based detection**
+- 🛡️ Practicing through real-world labs: TryHackMe, LetsDefend, Blue Team Labs Online
+- 📊 Comfortable working with structured/unstructured log data across endpoints, network, and cloud
+- 🤖 Building small automation tools with Python to streamline SOC workflows
 ---
 
-🧠 About Me
+## 🛠️ Skills & Tools
 
-- 🔍 Focused on Threat Detection & Incident Response
-- 🛡️ Passionate about Blue Team and SOC Operations
-- 📊 Experienced in log analysis and event correlation
-- 🚨 Learning and improving skills in incident detection and response
-- 🧪 Practicing through labs and defensive security challenges
+| Category | Tools / Tech |
+|---|---|
+| **SIEM** | Splunk, Elastic Stack (ELK), Microsoft Sentinel |
+| **Network Analysis** | Wireshark, Zeek, Suricata |
+| **Threat Intelligence** | VirusTotal, AbuseIPDB, MISP |
+| **Log Sources** | Windows Event Logs, Syslog, Firewall logs |
+| **Automation** | Python, Bash |
+| **Frameworks** | MITRE ATT&CK, Cyber Kill Chain |
 
-💡 "Detect, analyze, and respond — before it becomes a breach."
-
----
-
-🧠 Skills
-
-- SIEM Monitoring & Log Analysis
-- Incident Investigation & Triage
-- Network Traffic Analysis
-- Log Analysis
-- Threat Intelligence Enrichment 
-- Security Hardening
-- Python for security Automation
-
----
 
 🛠️ Tools & Technologies
 
