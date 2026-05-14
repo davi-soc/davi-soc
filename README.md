@@ -17,16 +17,9 @@ I'm a **SOC Analyst** focused on **Blue Team operations**, with hands-on experie
 - 🤖 Building small automation tools with Python to streamline SOC workflows
 ---
 
-## 🛠️ Skills & Tools
+## ⚙️ Tools & Technologies
 
-| Category | Tools / Tech |
-|---|---|
-| **SIEM** | Splunk, Elastic Stack (ELK), Microsoft Sentinel |
-| **Network Analysis** | Wireshark, Zeek, Suricata |
-| **Threat Intelligence** | VirusTotal, AbuseIPDB, MISP |
-| **Log Sources** | Windows Event Logs, Syslog, Firewall logs |
-| **Automation** | Python, Bash |
-| **Frameworks** | MITRE ATT&CK, Cyber Kill Chain |
+**SIEM & Monitoring** · **Network Analysis** · **Threat Intel** · **Automation**
 
 
 🛠️ Tools & Technologies
