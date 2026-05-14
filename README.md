@@ -1,8 +1,7 @@
 ### Hi, I'm Davi 👋
 
 ![SOC Analyst](https://img.shields.io/badge/SOC_Analyst-Blue_Team-0A66C2?style=flat-square&logo=shield&logoColor=white)
-![SIEM](https://img.shields.io/badge/SIEM-Splunk%20%7C%20Elastic-orange?style=flat-square)
-![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python&logoColor=white)
+
 
 > *"Detect, analyze, and respond — before it becomes a breach."*
 
