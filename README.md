@@ -43,7 +43,6 @@ I'm a **SOC Analyst** focused on **Blue Team operations**, with hands-on experie
 
 🌐 Connect with me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/davi-reis-a2870234a/
 - 📧 Email: davi.socyberl1@gmail.com
 
 <!--
